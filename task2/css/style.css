@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+}
+
+.calculator {
+    margin: 20px;
+}
+
+.number {
+  max-width: 300px;
+  max-height: 50px;
+}
+
+.operation {
+  height: 22px;
+  max-width: 40px;
+}
+
+.result {
+    margin: 20px;
+}

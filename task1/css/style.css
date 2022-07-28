@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+}
+
+body {
+  font-family:
+        'Segoe UI',
+        Arial
+}
+
+p {
+    margin: 0;
+}
+
+.counterTitle {
+    text-align: center;
+    margin: 20px auto;
+}
+
+.image {
+    max-width: 500px;
+    max-height: 500px;
+    display: block;
+    margin: 20px auto;
+}
+
+.counterResult {
+    font-size: 1.25em;
+    text-align: center;
+    margin: 20px auto;
+}
